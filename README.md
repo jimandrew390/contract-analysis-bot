@@ -24,6 +24,7 @@ contract_analysis_bot/
 │   ├── utils.py
 │── .gitignore
 │── README.md
+│── requirements.txt
 ```
 
 
